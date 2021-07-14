@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap');
+h1{
+  	text-align: center;
+	font-family: 'Noto Sans', 'Noto Sans KR', sans-serif;
+}
+table {
+	width: 100%;
+    border: 1px solid #444444;
+    border-collapse: collapse;
+}
+th, td {
+	border: 1px solid #444444;
+	text-align: center;
+  }
+a{
+	color: black; text-decoration: none;
+}
